@@ -4,7 +4,7 @@
 
 We are given the head of a LinkedList.</br>
 Part 1 &rarr; We need to find whether there exists a cycle in a LinkedList</br>
-Part2 &rarr; If a cycle exists we have to return the position at which the cycle starts</br>
+Part 2 &rarr; If a cycle exists we have to return the position at which the cycle starts</br>
 </br>
 Definition of the Singly LinkedList class - 
 ```
